@@ -27,9 +27,15 @@
     <ClInclude Include="9CardGolf.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PlayingCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="9CardGolf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayingCard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
